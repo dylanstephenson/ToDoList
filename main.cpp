@@ -68,11 +68,6 @@ void loadFromFile(const string &filename, vector<ToDo> &todos)
             getline(ss, created))
         {
             ToDo task(desc, priority);
-            // Override created_date to match file
-            // Assuming ToDo has a setter or a constructor modification
-            // For simplicity, we can temporarily make created_date public or add a setter
-            // Or we could modify the constructor to accept created_date as optional
-            // Here, let's assume a setter exists:
             task.setCreatedDate(created);
             todos.push_back(task);
         }
