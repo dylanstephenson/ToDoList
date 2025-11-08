@@ -4,9 +4,7 @@ This program loads a file or create a new file where a user can save to do tasks
 
 This program was created as a learning exercise to learn the basics of C++ like input and output to the console, working with variables and expressions, and then expanding to functions and loops, until eventually I created a class for the To Do List. By doing this, along with working with fstream and sstream to read and write to files, I have a solid foundation in writing code using C++.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=7SNpaSze82I)
 
 # Development Environment
 
